@@ -65,6 +65,5 @@ public class Deportes {
         this.fechaCreacion = fechaCreacion;
         this.Pais = Pais;
     }
-    
-    
+   
 }
